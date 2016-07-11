@@ -37,7 +37,7 @@ Input upgrade which image (0:active image 1:buckup image 2:both images default:0
 ````
 ### Method two: Use Linux command that on the device upgrade version
 #### 1. Please set up a simple http file server on your host and put you image file in the server.
-#### 2. Boot Htemn2, wait Htemn2 has enter linux bash. excute the following command:
+#### 2. Boot HT-EMN2, wait HT-EMN2 has enter linux bash. excute the following command:
 
 ````bash
 # dload http://httpserveraddress/imagename
